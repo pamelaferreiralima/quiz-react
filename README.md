@@ -1,2 +1,2 @@
-# quiz-react
+# Desafio-Quiz
 Created with CodeSandbox

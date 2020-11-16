@@ -1,0 +1,20 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Andale Mono, monospace;
+}
+button {
+  color: green;
+  background-color: black;
+  font-family: Andale Mono, monospace;
+  font-size: 16px;
+}
+div {
+  background-image: url(https://cdn.pixabay.com/photo/2014/05/27/23/32/matrix-356024_960_720.jpg);
+}
+div {
+  font-family: Andale Mono, monospace;
+  color: white;
+  text-align: initial;
+  display: grid;
+}
